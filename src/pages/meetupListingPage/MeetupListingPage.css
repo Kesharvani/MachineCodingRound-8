@@ -1,0 +1,23 @@
+.eventTile_container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2.5rem;
+  justify-content: center;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  align-items: center;
+}
+.company {
+  color: red;
+  font-style: oblique 40deg;
+}
+.header input {
+  padding: 0.5rem 1rem;
+}
+.header select {
+  padding: 0.5rem 1rem;
+}
